@@ -7,11 +7,11 @@
 
 . Declaración de principios
 * Art. 37
-** La obligación de observar la Constitución y de respetar las leyes e instituciones que de ella emanen;
+** La obligación de observar la Constitución y de respetar las leyes e instituciones que de ella emanen
 ** Los principios ideológicos de carácter:
-*** político
-*** económico
-*** social
+*** Político
+*** Económico
+*** Social
 ** La declaración de no aceptar pacto o acuerdo que lo sujete o subordine al solicitante a cualquier
 organización internacional o lo haga depender de entidades o partidos políticos extranjeros; así
 como no solicitar o, en su caso, rechazar toda clase de apoyo económico, político o
@@ -61,10 +61,3 @@ solución de controversias internas, con los cuales se garanticen los derechos d
 militantes, así como la oportunidad y legalidad de las resoluciones, y
 Inciso reformados
 ** Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas, mediante un procedimiento disciplinario intrapartidario, con las garantías procesales mínimas que incluyan los derechos de audiencia y defensa, la descripción de las posibles infracciones a la normatividad interna o causales de expulsión y la obligación de motivar y fundar la resolución respectiva.
-
-
-Debe cumplir con:
-
-. Artículo 37 de la Ley General
-. Artículo 38 de la Ley General
-. Artículo 39 de la Ley Genera
