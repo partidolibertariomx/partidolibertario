@@ -1,0 +1,69 @@
+= Requisitos
+
+== Documentos Basicos
+
+=== Deben cumplir con Artículo 37-39 de la https://www.ieebc.mx/constpartidos/archivos/01_LEYES/lgpp.pdf[Ley General de Partidos Políticos]
+
+
+. Declaración de principios
+* Art. 37
+** La obligación de observar la Constitución y de respetar las leyes e instituciones que de ella emanen;
+** Los principios ideológicos de carácter:
+*** político
+*** económico
+*** social
+** La declaración de no aceptar pacto o acuerdo que lo sujete o subordine al solicitante a cualquier
+organización internacional o lo haga depender de entidades o partidos políticos extranjeros; así
+como no solicitar o, en su caso, rechazar toda clase de apoyo económico, político o
+propagandístico proveniente de extranjeros o de ministros de los cultos de cualquier religión, así
+como de las asociaciones y organizaciones religiosas e iglesias y de cualquiera de las personas a
+las que esta Ley prohíbe financiar a los partidos políticos;
+** La obligación de conducir sus actividades por medios pacíficos y por la vía democrática;
+** La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres;
+** La obligación de promover, proteger y respetar los derechos políticos y electorales de las mujeres, establecidos en la Constitución Federal y en los tratados internacionales firmados y ratificados por México
+** Establecer mecanismos de sanción aplicables a quien o quienes ejerzan violencia política contra las mujeres en razón de género, acorde a lo estipulado en la Ley General de Instituciones y Procedimientos Electorales, en la Ley General de Acceso y las demás leyes aplicables.
+. Plan de acción
+* Art. 38
+** Alcanzar los objetivos de los partidos políticos
+** Proponer políticas públicas
+** Formar ideológica y políticamente a las y los militantes
+** Promover la participación política de las (sic DOF 13-04-2020 militantes
+** Establecer mecanismos de promoción y acceso de las mujeres a la actividad política del partido,
+así como la formación de liderazgos políticos
+** Preparar la participación activa de las y los militantes en los procesos electorales.
+. Estatutos
+* Art. 39
+** La denominación del partido político, el emblema y el color o colores que lo caractericen y diferencien de otros partidos políticos. La denominación y el emblema estarán exentos de alusiones religiosas o raciales
+** Los procedimientos para la afiliación individual, personal, libre y pacífica de sus miembros, así
+como sus derechos y obligaciones;
+** Los derechos y obligaciones de los militantes;
+** La estructura orgánica bajo la cual se organizará el partido político;
+** Las normas y procedimientos democráticos para la integración y renovación de los órganos
+internos, así como las funciones, facultades y obligaciones de los mismos;
+** Los mecanismos y procedimientos que permitirán garantizar la integración de liderazgos políticos
+de mujeres al interior del partido;
+Inciso adicionado DOF 13-04-2020
+** Los mecanismos que garanticen la prevención, atención y sanción de la violencia política contra
+las mujeres en razón de género;
+Inciso adicionado DOF 13-04-2020
+** Las normas y procedimientos democráticos para la postulación de candidaturas
+** La obligación de presentar una plataforma electoral, para cada elección en que participe,
+sustentada en su declaración de principios y programa de acción;
+Inciso recorrido DOF 13-04-2020
+** La obligación de sus candidatas o candidatos de sostener y difundir la plataforma electoral
+durante la campaña electoral en que participen;
+Inciso reformado y recorrido DOF 13-04-2020
+** Los tipos y las reglas de financiamiento privado a los que recurrirán los partidos políticos;
+Inciso recorrido DOF 13-04-2020
+** Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanismos alternativos de
+solución de controversias internas, con los cuales se garanticen los derechos de las y los
+militantes, así como la oportunidad y legalidad de las resoluciones, y
+Inciso reformados
+** Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas, mediante un procedimiento disciplinario intrapartidario, con las garantías procesales mínimas que incluyan los derechos de audiencia y defensa, la descripción de las posibles infracciones a la normatividad interna o causales de expulsión y la obligación de motivar y fundar la resolución respectiva.
+
+
+Debe cumplir con:
+
+. Artículo 37 de la Ley General
+. Artículo 38 de la Ley General
+. Artículo 39 de la Ley Genera
