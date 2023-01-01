@@ -1,0 +1,11 @@
+= Plan De Accion
+
+=== Sistema de Citas para cruzar la frontera
+
+Tijuana es una ciudad ubicada en la frontera entre México y Estados Unidos, lo que significa que es un lugar de tránsito para muchas personas que cruzan la garita hacia San Diego. Sin embargo, el tráfico en la garita puede ser muy intenso en ciertos momentos del día, lo que puede resultar frustrante para aquellos que intentan cruzar. Por esta razón, creo que Tijuana necesita un sistema de citas para cruzar la garita a San Diego con dos filas: una gratuita con citas con anticipación y otra de cobro con precios dinámicos basados en la demanda.
+
+En primer lugar, un sistema de citas para cruzar la garita permitiría igualizar la demanda de cruzar y dar certeza a la gente que cruza. Actualmente, muchas personas tienen que esperar largas horas en la garita debido a la alta demanda, lo que puede ser muy frustrante. Con un sistema de citas, las personas podrían programar su cruce con anticipación y saber con certeza cuándo podrán cruzar la garita. Esto también permitiría a las autoridades saber cuántas personas esperan cruzar en cualquier momento dado, lo que les ayudaría a manejar el tráfico de manera más eficiente.
+
+Además, un sistema de citas con dos filas, una gratuita con citas con anticipación y otra de cobro con precios dinámicos basados en la demanda, podría ayudar a asegurar que siempre se pueda cruzar la garita en 15 minutos o menos. La fila gratuita con citas con anticipación permitiría a las personas que planifican con anticipación cruzar sin tener que esperar demasiado tiempo, mientras que la fila de cobro con precios dinámicos basados en la demanda permitiría a aquellos que necesitan cruzar de manera más rápida hacerlo a cambio de una tarifa. Esto podría ayudar a reducir la congestión en la garita y a asegurar que siempre se pueda cruzar de manera rápida y eficiente.
+
+En conclusión, creo que Tijuana necesita un sistema de citas para cruzar la garita a San Diego con dos filas: una gratuita con citas con anticipación y otra de cobro con precios dinámicos basados en la demanda. Esto permitiría igualizar la demanda de cruzar y dar certeza a la gente que cruza, y también ayudaría a asegurar que siempre se pueda cruzar la garita en 15 minutos o menos.
