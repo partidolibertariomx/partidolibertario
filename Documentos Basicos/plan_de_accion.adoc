@@ -40,13 +40,32 @@ Buscamos promover el derecho a la autodefensa y el uso reglamentado y legal de a
 
 == Urbanismo
 
+=== Transporte publico y DOT
+
+=== Promover densidad
+
+* Prohibir estacionamiento de un piso
+* Quitar todo requisito de construir estacionamiento con viviendas
+* Poner viviendas en el parque morelos, amistad, y otros
+
 === Carril para transporte alternativo y protizacion del peaton
 
+* Puentes peatonales
+* Expander tamanno de banquetas
+* Asegurar que banquetas son continuosas y que conectan de la forma mas eficiente a distintos reds. Crea callejones alumbradas con cameras de seguridad para permitir acceso rapio para el peaton.
+* Plazas peatonales, sin coches
 
+[[centro_plaza_peatonal_antes]]
+.Calle en el Centro de Tijuana antes de ser convertido a plaza peatonal
+image::../imagenes/centro-plaza-peatonal-antes.png["Calle en el Centro de Tijuana antes de ser convertido a plaza peatonal"]
+
+[[centro_plaza_peatonal]]
+.Convertido Plaza Peatonal Ejemplo en el Centro de Tijuana
+image::../imagenes/centro-plaza-peatonal.png["Plaza Peatonal conversion ejemplo en el Centro de Tijuana"]
 
 === Terrenos centricos Vacios
 
-
+Aumento de predial en terrenos vacios muy centricos
 
 === Sistema de Cruce Express para cruzar la frontera
 
