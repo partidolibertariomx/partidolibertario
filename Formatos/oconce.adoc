@@ -1,0 +1,165 @@
+____
+*FORMATO OC.11 “IM-4” DETALLE DE LOS GASTOS REALIZADOS POR LA
+ORGANIZACIÓN DE +
+CIUDADANOS*
+
+*DETALLE DE LOS GASTOS DE PROPAGANDA REALIZADOS POR LA ORGANIZACIÓN DE +
+CIUDADANOS (1):*
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+DURANTE EL MES DE (2): agosto de 2020
+
+*CONCEPTO*
+
+*MONTO ($)*
+
+Servicios Personales (3) (*)
+
+$XXXXXXXXXXXXX
+
+Materiales y Suministros (4) (*)
+
+$XXXXXXXXXXXXX
+
+Servicios Generales (5) (*)
+
+$XXXXXXXXXXXXX
+
+Propaganda Institucional (6)
+
+$XXXXXXXXXXXXX
+
+Gastos de autofinanciamiento (7)
+
+$XXXXXXXXXXXXX
+
+Gastos Financieros (8)
+
+$XXXXXXXXXXXXX
+
+Adquisiciones de Activo Fijo (9) (*) (**)
+
+$XXXXXXXXXXXXX
+
+Otros Gastos (10) (*)
+
+$XXXXXXXXXXXXX
+
+TOTAL (11)
+
+$XXXXXXXXXXXXX
+
+*RESPONSABLE DE LA INFORMACIÓN*
+
+NOMBRE (12):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+FECHA (13): 25 de agosto de 2020
+
+FIRMA (14):
+
+*(*) Anexar desglose por cada concepto que lo integra.*
+
+*(**) Las adquisiciones de bienes muebles e inmuebles se deben registrar
+contablemente en el rubro de activos fijos, sin embargo, para efectos de
+la presentación del Informe Mensual, éstos deben reportarse como
+gastos.*
+____
+
+*INSTRUCTIVO DE LLENADO DEL*
+
+*FORMATO OC.11 “IM-4” DETALLE DE LOS GASTOS REALIZADOS POR LA
+ORGANIZACIÓN DE CIUDADANOS*
+
+* Deberá presentarse el formato, de acuerdo con lo siguiente:
+
+Claves:
+
+[arabic]
+. NOMBRE
+
+Nombre de la Organización de Ciudadanos.
+
+[arabic]
+. {blank}
+. MES
+
+Mes que se reporta.
+
+[arabic, start=3]
+. {blank}
+. SERVICIOS PERSONALES
+
+Monto total de los egresos efectuados por la Organización de Ciudadanos
+por concepto de Servicios Personales.
+
+[arabic, start=5]
+. {blank}
+. MATERIALES Y SUMINISTROS
+
+Monto total de los egresos efectuados por la Organización de Ciudadanos
+por concepto de Materiales y Suministros.
+
+[arabic, start=7]
+. {blank}
+. SERVICIOS GENERALES
+
+Monto total de los egresos efectuados por la Organización de Ciudadanos
+por concepto de Servicios Generales.
+
+[arabic, start=9]
+. {blank}
+. PROPAGANDA INSTITUCIONAL
+
+Monto total de los egresos efectuados por la Organización de Ciudadanos
+por concepto de Propaganda Institucional.
+
+[arabic, start=11]
+. {blank}
+. GASTOS DE AUTOFINANCIAMIENTO
+. GASTOS FINANCIEROS
+. ADQUISICIONES DE ACTIVO FIJO
+
+Monto total de los egresos efectuados por la Organización de Ciudadanos
+por concepto de Gatos de Autofinanciamiento.
+
+Monto total de los egresos efectuados por la Organización de Ciudadanos
+por concepto de Gastos Financieros.
+
+Monto total de los egresos efectuados por la Organización de Ciudadanos
+por concepto de adquisición de activo fijo.
+
+[arabic, start=15]
+. {blank}
+. OTROS GASTOS
+
+Monto total de los egresos efectuados por la Organización de Ciudadanos
+por conceptos diferentes a los citados en los puntos anteriores y que
+correspondan a gastos de operación.
+
+[arabic, start=17]
+. {blank}
+. TOTAL
+
+La suma de los montos totales de los egresos efectuados por la
+Organización de Ciudadanos durante el mes que se reporta.
+
+[arabic, start=19]
+. NOMBRE
+
+Nombre de la persona responsable de finanzas de la Organización de
+Ciudadanos.
+
+[arabic, start=20]
+. FECHA
+
+Fecha (día, mes y año) de presentación del formato.
+
+[arabic, start=21]
+. {blank}
+. FIRMA
+
+Firma autógrafa de la persona responsable de finanzas de la Organización
+de Ciudadanos.
+
+== 

@@ -1,0 +1,115 @@
+==  FORMATO OC.10 “IM-3” DETALLE DE INGRESOS POR RENDIMIENTOS FINANCIEROS
+
+____
+*DETALLE DE INGRESOS OBTENIDOS POR RENDIMIENTOS FINANCIEROS DE LA
+ORGANIZACIÓN DE CIUDADANOS (1):*
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+DURANTE EL MES DE (2): agosto de 2020
+____
+
+[upperroman]
+. {blank}
++
+____
+*DETALLE DE LOS RENDIMIENTOS OBTENIDOS*
+____
+
+____
+*TIPO DE INVERSIÓN*
+
+*MONTO DEL RENDIMIENTO ($)*
+
+Operaciones Bancarias o Financieras (3)
+
+$XXXXXXXXXXXXX
+
+Otras (Especificar) (3) (*)
+
+$XXXXXXXXXXXXX
+
+TOTAL (4)
+
+$XXXXXXXXXXXXX
+____
+
+[upperroman, start=2]
+. {blank}
++
+____
+*RESPONSABLE DE LA INFORMACIÓN*
+____
+
+____
+NOMBRE (5):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+FECHA (6): 25 de agosto de 2020
+
+FIRMA (7):
+
+*(*) Anexar detalle por cada concepto que lo integra.*
+____
+
+*INSTRUCTIVO DE LLENADO DEL*
+
+*FORMATO OC.10 “IM-3” DETALLE DE INGRESOS POR RENDIMIENTOS FINANCIEROS*
+
+* Deberá presentarse el formato, de acuerdo con lo siguiente:
+
+Claves:
+
+[arabic]
+. NOMBRE
+. MES
+
+Nombre de la Organización de Ciudadanos.
+
+Mes al que corresponde el informe que se reporta.
+
+*APARTADO I. DETALLE DE LOS RENDIMIENTOS FINANCIEROS OBTENIDOS.*
+
+[arabic]
+. {blank}
+. {blank}
+. {blank}
+. MONTO DEL RENDIMIENTO
+
+Importe total obtenido por rendimientos de cada uno de los tipos de
+inversión con que cuenta la Organización de Ciudadanos.
+
+[arabic, start=5]
+. {blank}
+. TOTAL
+
+Suma total de los rendimientos obtenidos por la Organización de
+Ciudadanos en el período que se reporta.
+
+*APARTADO II. RESPONSABLE DE LA INFORMACIÓN.*
+
+[arabic, start=7]
+. {blank}
+. NOMBRE
+
+Nombre de la persona responsable de finanzas de la Organización de
+Ciudadanos.
+
+[arabic, start=9]
+. {blank}
+. FECHA
+
+Fecha (día, mes y año) de presentación del formato.
+
+[arabic, start=11]
+. {blank}
+. FIRMA
+
+Firma autógrafa del titular del órgano responsable de finanzas de la
+Organización de Ciudadanos.
+
+____
+*NOTA:* En caso de que el espacio para el detalle de la información sea
+insuficiente, podrán llenarse las hojas que sean necesaria.
+____
+
+== 

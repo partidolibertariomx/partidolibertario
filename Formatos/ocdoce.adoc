@@ -1,0 +1,618 @@
+*OC.12 “CATÁLOGO DE CUENTAS”*
+
+Las cuentas contables previstas en este catálogo de cuentas son
+enunciativas más no limitativas, por lo que las Organizaciones de
+Ciudadanos podrán abrir cuentas adicionales de acuerdo a sus
+necesidades, respetando en todo momento la nomenclatura establecida.
+
+[width="99%",cols="11%,8%,8%,9%,13%,14%,37%",options="header",]
+|===
+|*Número de Cuenta* | | | | | |*Nombre de la Cuenta Contable*
+a|
+*1er*
+
+*Subnivel*
+
+a|
+*2do*
+
+*Subnivel*
+
+a|
+*3er*
+
+*Subnivel*
+
+a|
+*4to*
+
+*Subnivel*
+
+a|
+*5to*
+
+*Subnivel*
+
+|*Número de Cuenta* |
+
+|1 | | | | |[.underline]#1-0-00-00-0000# |*[.underline]#ACTIVO#*
+
+| |1.1 | | | |1-1-00-00-0000 |*_Circulante_*
+
+| | |1.1.01 | | |1-1-01-00-0000 |*Caja*
+
+| | |1.1.02 | | |1-1-02-00-0000 |*Bancos*
+
+| | |1.1.03 | | |1-1-03-00-0000 |*Inversiones en Valores*
+
+| | |1.1.04 | | |1-1-04-00-0000 |*Cuentas por Cobrar*
+
+| | | |1.1.04.01 | |1-1-04-01-0000 |Deudores Diversos
+
+| | | |1.1.04.02 | |1-1-04-02-0000 |Préstamos al Personal
+
+| | | |1.1.04.03 | |1-1-04-03-0000 |Subsidio al Empleo
+
+| | | |1.1.04.04 | |1-1-04-04-0000 |Impuestos por Recuperar
+
+| | | |1.1.04.05 | |1-1-04-05-0000 |Cuotas
+
+| | |1.1.05 | | |1-1-05-00-0000 |*Gastos por Comprobar*
+
+| | | |1.1.05.01 | |1-1-05-01-0000 |Viáticos por Comprobar
+
+| | | |1.1.05.02 | |1-1-05-02-0000 |Otros Gastos por Comprobar
+
+| | |1.1.06 | | |1-1-06-00-0000 |*Anticipo a Proveedores*
+
+| | |1.1.07 | | |1-1-07-00-0000 |*Gastos por Amortizar*
+
+| | | |1.1.07.01 | |1-1-07-01-0000 |Almacén
+
+| | | | |1.1.07.01.0001 |1-1-07-01-0001 |Propaganda Electoral, Tareas
+Editoriales, Materiales y Suministros
+
+| |1.2 | | | |1-2-00-00-0000 |*_No Circulante_*
+
+| | |1.2.01 | | |1-2-01-00-0000 |*Propiedades, Planta y Equipo*
+
+| | | |1.2.01.01 | |1-2-01-01-0000 |Terrenos
+
+| | | |1.2.01.02 | |1-2-01-02-0000 |Edificios
+
+| | | |1.2.01.03 | |1-2-01-03-0000 |Mobiliario y Equipo
+
+| | | |1.2.01.04 | |1-2-01-04-0000 |Equipo de Transporte
+
+| | | |1.2.01.05 | |1-2-01-05-0000 |Equipo de Cómputo
+
+| | | |1.2.01.06 | |1-2-01-06-0000 |Equipo de Sonido y Video
+
+| | | |1.2.01.07 | |1-2-01-07-0000 |Equipo de Comunicación
+
+| | | |1.2.01.08 | |1-2-01-08-0000 |Maquinaria
+
+| | | |1.2.01.09 | |1-2-01-09-0000 |Equipo Audiovisual y Fotográfico
+
+| | |1.2.02 | | |1-2-02-00-0000 |*Depreciación Acumulada*
+
+| | | |1.2.02.01 | |1-2-02-01-0000 |Depreciación Acumulada de Edificios
+
+| | | |1.2.02.02 | |1-2-02-02-0000 |Depreciación Acumulada de Mobiliario
+y Equipo
+
+| | | |1.2.02.03 | |1-2-02-03-0000 |Depreciación Acumulada de Equipo de
+Transporte
+
+| | | |1.2.02.04 | |1-2-02-04-0000 |Depreciación Acumulada de Equipo de
+Cómputo
+
+| | | |1.2.02.05 | |1-2-02-05-0000 |Depreciación Acumulada de Equipo de
+Sonido y Video
+
+| | | |1.2.02.06 | |1-2-02-06-0000 |Depreciación Acumulada de Equipo de
+Comunicación
+
+| | | |1.2.02.07 | |1-2-02-07-0000 |Depreciación Acumulada de Maquinaria
+
+| | | |1.2.02.08 | |1-2-02-08-0000 |Depreciación Acumulada de Equipo
+Audiovisual y Fotográfico
+
+| | |1.2.03 | | |1-2-03-00-0000 |*Activos Intangibles*
+
+| | |1.2.04 | | |1-2-04-00-0000 |*Amortización Acumulada de Activos
+Intangibles*
+
+| | |1.2.05 | | |1-2-05-00-0000 |*Gastos de Instalación*
+
+| | |1.2.06 | | |1-2-06-00-0000 |*Amortización Acumulada de Gastos de
+Instalación*
+
+| | |1.2.07 | | |1-2-07-00-0000 |*Pagos Anticipados*
+
+| | | |1.2.07.01 | |1-2-07-01-0000 |Pólizas de Seguros
+
+| | | |1.2.07.02 | |1-2-07-02-0000 |Rentas Anticipadas
+
+| | | |1.2.07.03 | |1-2-07-03-0000 |Cuotas, Suscripciones y Licencias
+
+| | |1.2.08 | | |1-2-08-00-0000 |*Depósitos en Garantía*
+
+| | |1.2.09 | | |1-2-09-00-0000 |*Reserva para Cuentas de Cobro Dudoso*
+
+| | |1.2.10 | | |1-2-10-00-0000 |*Devengación de Derechos*
+
+|2 | | | | |2-0-00-00-0000 |*[.underline]#PASIVO#*
+
+| |2.1 | | | |2-1-00-00-0000 |*_Corto Plazo_*
+
+| | |2.1.01 | | |2-1-01-00-0000 |*Proveedores*
+
+| | |2.1.02 | | |2-1-02-02-0000 |*Cuentas por Pagar*
+
+| | | |2.1.02.01 | |2-1-02-01-0000 |Documentos por Pagar
+
+| | | |2.1.02.02 | |2-1-02-02-0000 |Sueldos por Pagar
+
+| | | |2.1.02.03 | |2-1-02-03-0000 |Acreedores Diversos
+
+| | |2.1.03 | | |2-1-03-00-0000 |*Impuestos por Pagar*
+
+| | | |2.1.03.01 | |2-1-03-01-0000 |ISR Retenido por Servicios
+Profesionales
+
+| | | |2.1.03.02 | |2-1-03-02-0000 |ISR Retenido por Sueldos y Salarios
+
+| | | |2.1.03.03 | |2-1-03-03-0000 |ISR Retenido por Honorarios
+Asimilables a Sueldos
+
+| | | |2.1.03.04 | |2-1-03-04-0000 |ISR Retenido por Arrendamiento
+
+| | | |2.1.03.05 | |2-1-03-05-0000 |IVA Retenido por Servicios
+Profesionales
+
+| | | |2.1.03.06 | |2-1-03-06-0000 |IVA Retenido por Fletes
+
+| | | |2.1.03.07 | |2-1-03-07-0000 |IVA Retenido por Arrendamiento
+
+| | | |2.1.03.08 | |2-1-03-08-0000 |IMSS
+
+| | | |2.1.03.09 | |2-1-03-09-0000 |INFONAVIT
+
+| | | |2.1.03.10 | |2-1-03-10-0000 |RCV
+
+| | | |2.1.03.11 | |2-1-03-11-0000 |Impuesto Sobre Nómina
+
+| | | |2.1.03.12 | |2-1-03-12-0000 |Otros Impuestos y/o Contribuciones
+Federales
+
+| | | |2.1.03.13 | |2-1-03-13-0000 |Otros Impuestos y/o Contribuciones
+Locales
+
+| | |2.1.04 | | |2-1-04-00-0000 |*Multas y Sanciones (Menores a 1 Año)*
+
+| | | |2.1.04.01 | |2-1-04-01-0000 |Organismo Público Electoral
+
+| | | |2.1.04.02 | |2-1-04-02-0000 |Actos tendentes a la obtención del
+registro
+
+| | | |2.1.04.03 | |2-1-04-03-0000 |SAT
+
+| |2.2 | | | |2-2-00-00-0000 |*_Largo Plazo_*
+
+| | |2.2.01 | | |2-2-01-00-0000 |*Créditos Bancarios*
+
+| | |2.2.02 | | |2-2-02-02-0000 |*Documentos por Pagar*
+
+| | |2.2.03 | | |2-2-03-00-0000 |*Pasivo Laboral*
+
+| | |2.2.04 | | |2-2-04-00-0000 |*Multas y Sanciones (Mayores a 1 Año)*
+
+| | | |2.2.04.01 | |2-2-04-01-0000 |Organismo Público Electoral
+
+| | | |2.2.04.02 | |2-2-04-02-0000 |Actos tendentes a la obtención del
+registro
+
+|3 | | | | |3-0-00-00-0000 |*[.underline]#PATRIMONIO#*
+
+| |3.1 | | | |3-1-00-00-0000 |*Patrimonio del Órgano Directivo*
+
+| | |3.1.01 | | |3-1-01-00-0000 |Patrimonio de la Organización de
+Ciudadanos
+
+| |3.2 | | | |3-2-00-00-0000 |*Remanente del Ejercicio*
+
+| |3.3 | | | |3-3-00-00-0000 |*Remanente de Ejercicios Anteriores*
+
+|4 | | | | |4-0-00-00-0000 |*[.underline]#INGRESOS#*
+
+| |4.1 | | | |4-1-00-00-0000 |*Financiamiento Privado*
+
+| | |4.1.01 | | |4-1-01-00-0000 |*Aportaciones de Afiliados/as*
+
+| | | |4.1.01.01 | |4-1-01-01-0000 |Aportaciones en Dinero
+
+| | | |4.1.01.02 | |4-1-01-02-0000 |Aportaciones en Especie
+
+| | |4.1.02 | | |4-1-02-00-0000 |*Aportaciones de Simpatizantes*
+
+| | | |4.1.02.01 | |4-1-02-01-0000 |Aportaciones en Dinero
+
+| | | |4.1.02.02 | |4-1-02-02-0000 |Aportaciones en Especie
+
+| | |4.1.03 | | |4-1-03-00-0000 |*Autofinanciamiento*
+
+| | | |4.1.03.01 | |4-1-03-01-0000 |Conferencias
+
+| | | |4.1.03.02 | |4-1-03-02-0000 |Espectáculos
+
+| | | |4.1.03.03 | |4-1-03-03-0000 |Rifas
+
+| | | |4.1.03.04 | |4-1-03-04-0000 |Sorteos
+
+| | | |4.1.03.05 | |4-1-03-05-0000 |Eventos Culturales
+
+| | | |4.1.03.06 | |4-1-03-06-0000 |Ventas Editoriales
+
+| | | |4.1.03.07 | |4-1-03-07-0000 |Ventas por Bienes Promocionales
+
+| | | |4.1.03.08 | |4-1-03-08-0000 |Ventas de Propaganda Utilitaria
+
+| | | |4.1.03.09 | |4-1-03-09-0000 |Ventas de Bienes Inmuebles
+
+| | | |4.1.03.10 | |4-1-03-10-0000 |Ventas de Bienes Muebles
+
+| | | |4.1.03.11 | |4-1-03-11-0000 |Ventas de Artículos de Desecho
+
+| | | |4.1.03.12 | |4-1-03-12-0000 |Ingresos por Otros Eventos
+
+| |4.2 | | | |4-2-00-00-0000 |*Rendimientos Financieros, Fondos y
+Fideicomisos*
+
+| |4.3 | | | |4-3-00-00-0000 |*Otros Ingresos*
+
+| | |4.2.01 | | |4-2-01-00-0000 |Rendimientos Bancarios
+
+|5 | | | | |5-0-00-00-0000 |*[.underline]#EGRESOS#*
+
+| |5.1 | | | |5-1-00-00-0000 |*Operación Ordinaria*
+
+| | |5.1.01 | | |5-1-01-00-0000 |*Servicios Personales*
+
+| | | |5.1.01.01 | |5-1-01-01-0000 |_Sueldos y Salarios de Personal_
+
+| | | | |5.1.01.01.0001 |5-1-01-01-0001 |Sueldos y Salarios
+
+| | | | |5.1.01.01.0002 |5-1-01-01-0002 |Honorarios
+
+| | | | |5.1.01.01.0003 |5-1-01-01-0003 |Compensaciones
+
+| | | | |5.1.01.01.0004 |5-1-01-01-0004 |Indemnizaciones
+
+| | | | |5.1.01.01.0005 |5-1-01-01-0005 |Aguinaldo
+
+| | | | |5.1.01.01.0006 |5-1-01-01-0006 |Fondo de Ahorro
+
+| | | | |5.1.01.01.0007 |5-1-01-01-0007 |Vales de Despensa
+
+| | | | |5.1.01.01.0008 |5-1-01-01-0008 |Gratificaciones
+
+| | | | |5.1.01.01.0009 |5-1-01-01-0009 |IMSS
+
+| | | | |5.1.01.01.0010 |5-1-01-01-0010 |5% INFONAVIT
+
+| | | | |5.1.01.01.0011 |5-1-01-01-0011 |RCV
+
+| | | | |5.1.01.01.0012 |5-1-01-01-0012 |Impuesto Sobre Nómina
+
+| | | | |5.1.01.01.0013 |5-1-01-01-0013 |Honorarios Asimilables a
+Sueldos
+
+| | | | |5.1.01.01.0014 |5-1-01-01-0014 |Premios de Asistencia
+
+| | | | |5.1.01.01.0015 |5-1-01-01-0015 |Prima de Antigüedad
+
+| | | | |5.1.01.01.0016 |5-1-01-01-0016 |Bono de Puntualidad
+
+| | | | |5.1.01.01.0017 |5-1-01-01-0017 |Ayuda de Transporte
+
+| | | | |5.1.01.01.0018 |5-1-01-01-0018 |Ayuda para Habitación
+
+| | | | |5.1.01.01.0019 |5-1-01-01-0019 |Vacaciones
+
+| | | | |5.1.01.01.0020 |5-1-01-01-0020 |Prima Vacacional
+
+| | | | |5.1.01.01.0021 |5-1-01-01-0021 |Previsión Social
+
+| | | | |5.1.01.01.0022 |5-1-01-01-0022 |Indemnización de Riesgos
+Laborales
+
+| | | | |5.1.01.01.0023 |5-1-01-01-0023 |Prestaciones de Seguros
+
+| | | | |5.1.01.01.0024 |5-1-01-01-0024 |Gasto Pasivo Laboral
+
+| | | | |5.1.01.010025 |5-1-01-01-0025 |Otros Gastos
+
+| | |5.1.02 | | |5-1-02-00-0000 |*Materiales y Suministros*
+
+| | | |5.1.02.01 | |5-1-02-01-0000 |_Materiales y Suministros_
+
+| | | | |5.1.02.01.0001 |5-1-02-01-0001 |Costos de Producción de
+Propaganda
+
+| | | | |5.1.02.01.0002 |5-1-02-01-0002 |Impresos
+
+| | | | |5.1.02.01.0003 |5-1-02-01-0003 |Papelería
+
+| | | | |5.1.02.01.0004 |5-1-02-01-0004 |Artículos de Aseo y Limpieza
+
+| | | | |5.1.02.01.0005 |5-1-02-01-0005 |Impuestos y Derechos
+
+| | | | |5.1.02.01.0006 |5-1-02-01-0006 |Paquetería
+
+| | | | |5.1.02.01.0007 |5-1-02-01-0007 |Despensa
+
+| | | | |5.1.02.01.0008 |5-1-02-01-0008 |Libros, Periódicos y Revistas
+
+| | | | |5.1.02.01.0009 |5-1-02-01-0009 |Otros Gastos
+
+| | | | |5.1.02.01.0010 |5-1-02-01-0010 |Costos de Artículos
+Promocionales
+
+| | | | |5.1.02.01.0011 |5-1-02-01-0011 |Fletes y Mudanzas
+
+| | | | |5.1.02.01.0012 |5-1-02-01-0012 |Artículos de Cocina
+
+| | | | |5.1.02.01.0013 |5-1-02-01-0013 |Refacciones, Accesorios y
+Herramientas
+
+| | | | |5.1.02.01.0014 |5-1-02-01-0014 |Materiales de Construcción
+
+| | | | |5.1.02.01.0015 |5-1-02-01-0015 |Estructuras y Manufacturas
+
+| | | | |5.1.02.01.0016 |5-1-02-01-0016 |Material Eléctrico y de
+Telecomunicaciones
+
+| | | | |5.1.02.01.0017 |5-1-02-01-0017 |Medicinas y Materiales de
+Curación
+
+| | | | |5.1.02.01.0018 |5-1-02-01-0018 |Vestuarios y Uniformes
+
+| | | | |5.1.02.01.0019 |5-1-02-01-0019 |Servicio Postal
+
+| | | | |5.1.02.01.0020 |5-1-02-01-0020 |Servicio Telegráfico
+
+| | | | |5.1.02.01.0021 |5-1-02-01-0021 |Verificación Vehicular
+
+| | | | |5.1.02.01.0022 |5-1-02-01-0022 |Servicio de Agua Potable
+
+| | | | |5.1.02.01.0023 |5-1-02-01-0023 |Placas y Tenencias
+
+| | | | |5.1.02.01.0024 |5-1-02-01-0024 |Fotocopiado
+
+| | | | |5.1.02.01.0025 |5-1-02-01-0025 |Lavandería, Limpieza, Higiene y
+Fumigación
+
+| | | | |5.1.02.01.0026 |5-1-02-01-0026 |Publicidad y Propaganda
+
+| | | | |5.1.02.01.0027 |5-1-02-01-0027 |Mantenimiento a Edificios
+
+| | | | |5.1.02.01.0028 |5-1-02-01-0028 |Mantenimiento de Mobiliario y
+Equipo
+
+| | | | |5.1.02.01.0029 |5-1-02-01-0029 |Mantenimiento de Equipo de
+Transporte
+
+| | | | |5.1.02.01.0030 |5-1-02-01-0030 |Mantenimiento de Equipo de
+Cómputo
+
+| | | | |5.1.02.01.0031 |5-1-02-01-0031 |Mantenimiento de Equipo de
+Sonido y Video
+
+| | | | |5.1.02.01.0032 |5-1-02-01-0032 |Mantenimiento de Equipo de
+Comunicación
+
+| | | | |5.1.02.01.0033 |5-1-02-01-0033 |Mantenimiento de Maquinaria
+
+| | | | |5.1.02.01.0034 |5-1-02-01-0034 |Mantenimiento de Equipo
+Audiovisual y Fotográfico
+
+| | |5.1.03 | | |5-1-03-00-0000 |*Servicios Generales*
+
+| | | |5.1.03.01 | |5-1-03-01-0000 |_Servicios Generales_
+
+| | | | |5.1.03.01.0001 |5-1-03-01-0001 |Arrendamiento de Bienes
+Inmuebles
+
+| | | | |5.1.03.01.0002 |5-1-03-01-0002 |Viáticos y Pasajes
+
+| | | | |5.1.03.01.0003 |5-1-03-01-0003 |Bitácora de Gastos Menores
+
+| | | | |5.1.03.01.0004 |5-1-03-01-0004 |Gasolina
+
+| | | | |5.1.03.01.0005 |5-1-03-01-0005 |Producción de Videos
+
+| | | | |5.1.03.01.0006 |5-1-03-01-0006 |Asesoría y Consultoría
+
+| | | | |5.1.03.01.0007 |5-1-03-01-0007 |Programas de Cómputo
+
+| | | | |5.1.03.01.0008 |5-1-03-01-0008 |Internet
+
+| | | | |5.1.03.01.0009 |5-1-03-01-0009 |Seguros de Vehículos
+
+| | | | |5.1.03.01.0010 |5-1-03-01-0010 |Seguros de Bienes
+
+| | | | |5.1.03.01.0011 |5-1-03-01-0011 |Asesoría y Capacitación
+
+| | | | |5.1.03.01.0012 |5-1-03-01-0012 |Arrendamiento de Bienes Muebles
+
+| | | | |5.1.03.01.0013 |5-1-03-01-0013 |Impuesto Predial
+
+| | | | |5.1.03.01.0014 |5-1-03-01-0014 |Licencia Software
+
+| | | | |5.1.03.01.0015 |5-1-03-01-0015 |Vigilancia
+
+| | | | |5.1.03.01.0016 |5-1-03-01-0016 |Atenciones
+
+| | | | |5.1.03.01.0017 |5-1-03-01-0017 |Multas, Recargos y/
+Actualizaciones
+
+| | | | |5.1.03.01.0018 |5-1-03-01-0018 |Encuestas y/o Consultas
+
+| | | | |5.1.03.01.0019 |5-1-03-01-0019 |Transporte
+
+| | | | |5.1.03.01.0020 |5-1-03-01-0020 |Diseño de Imagen
+
+| | | | |5.1.03.01.0021 |5-1-03-01-0021 |Impuestos y Derechos
+
+| | | | |5.1.03.01.0022 |5-1-03-01-0022 |Cuotas y Suscripciones
+
+| | | | |5.1.03.01.0023 |5-1-03-01-0023 |Servicios Noticiosos
+
+| | | | |5.1.03.01.0024 |5-1-03-01-0024 |Eventos
+
+| | | | |5.1.03.01.0025 |5-1-03-01-0025 |Publicaciones en Prensa
+
+| | | | |5.1.03.01.0026 |5-1-03-01-0026 |Trámites Legales
+
+| | | | |5.1.03.01.0027 |5-1-03-01-0027 |Cuentas Incobrables
+
+| | | | |5.1.03.01.0028 |5-1-03-01-0028 |Pérdida en Venta de Activos
+
+| | | | |5.1.03.01.0029 |5-1-03-01-0029 |Estudios de Investigación
+
+| | | | |5.1.03.01.0030 |5-1-03-01-0030 |Servicio de Vigilancia
+
+| | | | |5.1.03.01.0031 |5-1-03-01-0031 |Convenios
+
+| | | | |5.1.03.01.0032 |5-1-03-01-0032 |Capacitación y Cursos
+
+| | | | |5.1.03.01.0033 |5-1-03-01-0033 |Gastos Notariales
+
+| | | | |5.1.03.01.0034 |5-1-03-01-0034 |Servicios de Producción y
+Cobertura
+
+| | | | |5.1.03.01.0035 |5-1-03-01-0035 |Gastos de Representación
+
+| | | | |5.1.03.01.0036 |5-1-03-01-0036 |Alimentos
+
+| | | | |5.1.03.01.0037 |5-1-03-01-0037 |Depreciación de Edificios
+
+| | | | |5.1.03.01.0038 |5-1-03-01-0038 |Depreciación de Mobiliario y
+Equipo
+
+| | | | |5.1.03.01.0039 |5-1-03-01-0039 |Depreciación de Equipo de
+Transporte
+
+| | | | |5.1.03.01.0040 |5-1-03-01-0040 |Depreciación de Equipo de
+Cómputo
+
+| | | | |5.1.03.01.0041 |5-1-03-01-0041 |Depreciación de Equipo de
+Sonido y Video
+
+| | | | |5.1.03.01.0042 |5-1-03-01-0042 |Depreciación de Equipo de
+Comunicación
+
+| | | | |5.1.03.01.0043 |5-1-03-01-0043 |Depreciación de Maquinaria
+
+| | | | |5.1.03.01.0044 |5-1-03-01-0044 |Depreciación de Equipo
+Audiovisual y Fotográfico
+
+| | | | |5.1.03.01.0045 |5-1-03-01-0045 |Amortización de Activos
+Intangibles
+
+| | | | |5.1.03.01.0046 |5-1-03-01-0046 |Amortización de Gastos de
+Instalación
+
+| | | | |5.1.03.01.0047 |5-1-03-01-0047 |Otros Gastos
+
+| | | | |5.1.03.01.0048 |5-1-03-01-0048 |Energía Eléctrica
+
+| | | | |5.1.03.01.0049 |5-1-03-01-0049 |Teléfono
+
+| | | | |5.1.03.01.0050 |5-1-03-01-0050 |Casetas y Peajes
+
+| | | | |5.1.03.01.0051 |5-1-03-01-0051 |Actividades Cívicas y
+Festividades
+
+| | | | |5.1.03.01.0052 |5-1-03-01-0052 |Multas y Sanciones
+
+| | |5.1.04 | | |5-1-04-00-0000 |*Propaganda Institucional*
+
+| | | |5.1.04.01 | |5-1-04-01-0000 |_Propaganda Institucional_
+
+| | | | |5.1.04.01.0001 |5-1-04-01-0001 |Panorámicos o Espectaculares
+
+| | | | |5.1.04.01.0002 |5-1-04-01-0002 |Espectaculares en Pantallas
+Digitales
+
+| | | | |5.1.04.01.0003 |5-1-04-01-0003 |Propaganda Utilitaria
+
+| | | | |5.1.04.01.0004 |5-1-04-01-0004 |Diarios
+
+| | | | |5.1.04.01.0005 |5-1-04-01-0005 |Revistas
+
+| | | | |5.1.04.01.0006 |5-1-04-01-0006 |Otros Medios Impresos
+
+| | | | |5.1.04.01.0007 |5-1-04-01-0007 |Propaganda Exhibida en Salas de
+Cine
+
+| | | | |5.1.04.01.0008 |5-1-04-01-0008 |Propaganda Contratada en
+Internet
+
+| | |5.1.05 | | |5-1-05-00-0000 |*Gastos de Autofinanciamiento*
+
+| | | |5.1.05.01 | |5-1-05-01-0000 |Gastos de Autofinanciamiento
+
+| | | | |5.1.05.01.0001 |5-1-05-01-0001 |Conferencias
+
+| | | | |5.1.05.01.0002 |5-1-05-01-0002 |Espectáculos
+
+| | | | |5.1.05.01.0003 |5-1-05-01-0003 |Rifas
+
+| | | | |5.1.05.01.0004 |5-1-05-01-0004 |Sorteos
+
+| | | | |5.1.05.01.0005 |5-1-05-01-0005 |Eventos Culturales
+
+| | | | |5.1.05.01.0006 |5-1-05-01-0006 |Ventas Editoriales
+
+| | | | |5.1.05.01.0007 |5-1-05-01-0007 |Ventas por Bienes Promocionales
+
+| | | | |5.1.05.01.0008 |5-1-05-01-0008 |Ventas de Propaganda Utilitaria
+
+| | | | |5.1.05.01.0009 |5-1-05-01-0009 |Ventas de Bienes Inmuebles
+
+| | | | |5.1.05.01.0010 |5-1-05-01-0010 |Ventas de Bienes Muebles
+
+| | | | |5.1.05.01.0011 |5-1-05-01-0011 |Ventas de Artículos de Desecho
+
+| | | | |5.1.05.01.0012 |5-1-05-01-0012 |Ingresos por Otros Eventos
+
+| | |5.1.06 | | |5-1-06-00-0000 |*Gastos Financieros*
+
+| | | |5.1.06.01 | |5-1-06-01-0000 |Comisiones Bancarias
+
+| | | |5.1.06.02 | |5-1-06-02-0000 |Intereses Bancarios
+
+| | |5.1.07 | | |5-1-07-00-0000 |*Otros Gastos*
+
+| | | |5.1.07.01 | |5-1-07-01-0000 |Otros Gastos
+
+|6 | | | | |6-0-00-00-0000 |*[.underline]#CUENTAS DE ORDEN#*
+
+| |6.1 | | | |6-1-00-00-0000 |*Cuentas de Orden*
+
+| | |6.1.01 | | |6-1-01-00-0000 |*Comodato*
+
+| | | |6.1.01.01 | |6-1-01-01-0000 |Comodato de Planta y Equipo
+
+| | | |6.1.01.02 | |6-1-01-02-0000 |Planta y Equipo en Comodato
+
+| | |6.1.02 | | |6-1-02-00-0000 |*Multas y Sanciones*
+
+| | | |6.1.02.01 | |6-1-02-01-0000 |Multas impugnadas pendientes de
+Resolución por el Tribunal
+
+| | | |6.1.02.02 | |6-1-02-02-0000 |Resolución Pendiente por el Tribunal
+de Multas Impugnadas
+|===

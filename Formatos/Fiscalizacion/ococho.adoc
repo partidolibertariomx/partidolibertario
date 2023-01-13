@@ -1,0 +1,152 @@
+*FORMATO OC.8 “IM-1” DETALLE DE APORTACIONES DE AFILIADAS, AFILIADOS Y
+SIMPATIZANTES*
+
+____
+*DETALLE DE MONTOS APORTADOS POR LAS AFILIADAS, AFILIADOS Y
+SIMPATIZANTES DE LA ORGANIZACIÓN DE CIUDADANOS (1):*
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+DURANTE EL MES DE (2): agosto de 2020
+____
+
+[upperroman]
+. *INFORMACIÓN SOBRE LAS APORTACIONES*
+
+____
+*TIPO DE APORTACIÓN*
+
+*NO. APORTANTES*
+
+*MONTO ($)*
+
+Afiliados/as
+
+*Cuotas:*
+
+Ordinarias
+
+XXXX (3)
+____
+
+$XXXXXXXXXXXXX (4)
+
+____
+Extraordinarias
+
+XXXX (3)
+
+$XXXXXXXXXXXXX (4)
+
+Aportaciones en especie
+
+XXXX (3)
+
+$XXXXXXXXXXXXX (4)
+
+Simpatizantes
+
+Personas Físicas
+
+XXXX (3)
+
+$XXXXXXXXXXXXX (4)
+
+Aportaciones en especie
+
+XXXX (3)
+
+$XXXXXXXXXXXXX (4)
+
+TOTALES (5)
+
+$XXXXXXXXXXXXX
+____
+
+[upperroman, start=2]
+. *RESPONSABLE DE LA INFORMACIÓN*
+
+____
+NOMBRE (6):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+FECHA (7): 25 de agosto de 2020
+
+FIRMA (8):
+____
+
+* +
+*
+
+*INSTRUCTIVO DE LLENADO DEL*
+
+*FORMATO OC.8 “IM-1” DETALLE DE APORTACIONES DE AFILIADAS, AFILIADOS Y
+SIMPATIZANTES*
+
+* Deberá presentarse el formato, de acuerdo con lo siguiente:
+
+Claves:
+
+[arabic]
+. NOMBRE
+. MES
+
+Nombre de la Organización de Ciudadanos.
+
+Mes al que corresponde el informe que se reporta.
+
+*APARTADO I. INFORMACIÓN SOBRE LAS APORTACIONES*
+
+[arabic, start=3]
+. NÚMERO DE APORTANTES
+. MONTO
+
+Cantidad total de personas que aportaron a la Organización de
+Ciudadanos.
+
+Monto total de las aportaciones.
+
+[arabic, start=5]
+. TOTALES
+
+Sumas totales de los ingresos obtenidos por la Organización de
+Ciudadanos derivado de las aportaciones de sus afiliadas, afiliados y
+simpatizantes.
+
+*APARTADO II. RESPONSABLE DE LA INFORMACIÓN*
+
+[arabic, start=6]
+. NOMBRE
+
+Nombre de la persona responsable de finanzas de la Organización de
+Ciudadanos.
+
+[arabic, start=7]
+. FECHA
+
+Fecha (día, mes y año) de presentación del formato.
+
+[arabic, start=8]
+. FIRMA
+
+Firma autógrafa de la persona responsable de finanzas de la Organización
+de Ciudadanos.
+
+== 
+
+== 
+
+== 
+
+== 
+
+== 
+
+== 
+
+== 
+
+== 
+
+== NOTA: En caso de que el espacio para el detalle de la información sea insuficiente, podrán llenarse las hojas que sean necesarias. 
+
+== 

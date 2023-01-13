@@ -1,0 +1,239 @@
+== FORMATO OC.7 “IM” INFORME MENSUAL DE INGRESOS Y EGRESOS
+
+____
+*INFORME MENSUAL SOBRE EL ORIGEN Y DESTINO DE LOS RECURSOS DE LA
+ORGANIZACIÓN DE +
+CIUDADANOS (1):*
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+CORRESPONDIENTE AL MES DE (2): agosto de 2020
+____
+
+[upperroman]
+. *INGRESO*
+
+____
+*PARCIAL ($)*
+
+*MONTO ($)*
+
+Saldo Inicial (3)
+
+$XXXXXXXXXXXXX
+____
+
+[arabic]
+. {blank}
+
+____
+Aportaciones de Afiliados/as (4) (*)
+
+$XXXXXXXXXXXXX
+
+Efectivo
+
+$XXXXXXXXXXXXX
+
+Especie
+
+$XXXXXXXXXXXXX
+
+Aportaciones de Simpatizantes (5) (*)
+
+$XXXXXXXXXXXXX
+
+Efectivo
+
+$XXXXXXXXXXXXX
+
+Especie
+
+$XXXXXXXXXXXXX
+____
+
+[arabic, start=2]
+. {blank}
+
+____
+Autofinanciamiento (6) (*)
+
+$XXXXXXXXXXXXX
+
+Rendimientos financieros (7) (*) +
+ +
+$XXXXXXXXXXXXX
+
+Otros Ingresos (8) (*)
+
+$XXXXXXXXXXXXX
+
+TOTAL (9)
+
+$XXXXXXXXXXXXX
+____
+
+[upperroman, start=2]
+. *EGRESOS*
+
+____
+*MONTO ($)*
+
+GASTOS (10) (*)
+
+$XXXXXXXXXXXXX
+____
+
+[upperroman, start=3]
+. *RESUMEN*
+
+____
+INGRESOS (11)
+
+$ XXXXXXXXXXXXX
+
+EGRESOS (12)
+
+$ XXXXXXXXXXXXX
+
+SALDO (13)
+
+$ XXXXXXXXXXXXX
+____
+
+[upperroman, start=4]
+. *RESPONSABLE DE LA INFORMACIÓN*
+
+____
+NOMBRE (14)
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+FECHA (15)
+
+25 de agosto del 2020
+
+FIRMA (16)
+
+*(*) Anexar en el formato correspondiente la información detallada por
+estos conceptos.*
+____
+
+*INSTRUCTIVO DE LLENADO DEL*
+
+*FORMATO OC.7 “IM” INFORME MENSUAL DE INGRESOS Y EGRESOS*
+
+* Deberá presentarse el formato, de acuerdo con lo siguiente:
+
+Claves:
+
+[arabic]
+. NOMBRE
+
+Nombre de la Organización de Ciudadanos.
+
+[arabic, start=2]
+. MES
+
+Mes al que corresponde el informe que se reporta.
+
+*APARTADO I. INGRESOS*
+
+[arabic, start=3]
+. SALDO INICIAL
+
+Monto del saldo final del informe mensual inmediato anterior presentado.
+
+[arabic, start=4]
+. APORTACIONES POR LAS AFILIADAS Y LOS AFILIADOS
+
+Monto total de los ingresos obtenidos por concepto de aportaciones
+recibidas por la Organización de Ciudadanos por sus afiliadas y
+afiliados, separando efectivo y especie.
+
+[arabic, start=5]
+. APORTACIONES DE SIMPATIZANTES
+
+Monto total de los ingresos obtenidos por concepto de aportaciones
+recibidas por la Organización de Ciudadanos, de parte de sus
+simpatizantes, separando efectivo y especie.
+
+[arabic, start=6]
+. AUTOFINANCIAMIENTO
+
+Monto total de los ingresos obtenidos por la Organización de Ciudadanos
+derivado de sus actividades promocionales: conferencias, espectáculos,
+rifas, sorteos, eventos culturales, ventas editoriales y venta de
+bienes, de propaganda utilitaria y de artículos de desecho.
+
+[arabic, start=7]
+. POR RENDIMIENTOS FINANCIEROS
+. OTROS INGRESOS
+
+Monto total de los ingresos obtenidos por los rendimientos financieros.
+
+Monto total de los ingresos obtenidos por conceptos diferentes a los
+citados en los puntos anteriores.
+
+[arabic, start=2]
+. {blank}
+
+[arabic, start=9]
+. TOTAL
+
+Suma total de los ingresos obtenidos por la Organización de Ciudadanos.
+
+*APARTADO II. EGRESOS*
+
+[arabic, start=9]
+. {blank}
+. GASTOS
+
+Montos totales de los egresos efectuados por la Organización de
+Ciudadanos por cada uno de los conceptos involucrados en su operación,
+con motivo de las actividades tendientes a obtener el registro como
+partido político local, durante el mes que se reporta.
+
+**Anexar en el formato correspondiente la información detallada por
+estos conceptos.*
+
+*APARTADO III. RESUMEN*
+
+[arabic, start=11]
+. {blank}
+. INGRESOS
+
+Suma total de los ingresos obtenidos por la Organización de Ciudadanos
+durante el mes que se reporta.
+
+[arabic, start=13]
+. EGRESOS
+
+Suma total de los egresos efectuados por la Organización de Ciudadanos
+durante el mes que se reporta.
+
+[arabic, start=14]
+. SALDO
+
+El balance de los dos rubros anteriores o el neto.
+
+*APARTADO IV. RESPONSABLE DE LA INFORMACIÓN*
+
+[arabic, start=15]
+. {blank}
+. NOMBRE DEL TITULAR
+
+Nombre de la persona responsable de finanzas de la Organización de
+Ciudadanos.
+
+[arabic, start=17]
+. FECHA
+
+Fecha (día, mes y año) de presentación del formato.
+
+[arabic, start=18]
+. FIRMA
+
+==  +
+Firma autógrafa de la persona responsable de finanzas de la Organización de Ciudadanos.
+
+== 

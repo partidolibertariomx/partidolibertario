@@ -1,0 +1,124 @@
+== FORMATO OC.5 “CE-AUTO” CONTROL DE FOLIOS DE AUTOFINANCIAMIENTO
+
+____
+Organización de Ciudadanos (1):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Formato de control no. (2):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Tipo de evento (3):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+No. de autorización legal (4):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Fecha de autorización: 25 de agosto del 2020
+
+Fecha de inicio del evento: 25 de agosto del 2020
+
+Fecha de conclusión del evento: 25 de agosto del 2020
+
+Ejecución (5):
+
+☐
+
+☐
+____
+
+ADMINISTRACIÓN
+
+CONTRATO
+
+____
+Contratado con (6):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Ingresos (7):
+
+☐
+
+☐
+
+☐
+
+BOLETOS
+
+RECIBOS
+
+OTROS
+
+En caso de otros indicar:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Control de folios (8):
+
+Total de: XXXXXXXXXX impresos del no.: XXXXXXXXXX al no.: XXXXXXXXXX
+
+Utilizados en mes(es) anterior(es): XXXXXXXXXXXXXXXXXXXXX
+
+Cancelados en mes(es) anterior(es): XXXXXXXXXXXXXXXXXX
+
+Utilizados en el mes a reportar: del no.: XXXXXX al no.: XXXXXXXXXXXX
+
+Cancelados en el mes a reportar: XXXXXXXXXXXXXXXXXXXX
+
+Pendientes de utilizar: del no.: XXXXXX al no.: XXXXXXXXXX
+
+Ingreso bruto obtenido (9): $ XXXXXXXXXXXXXXXXXXXXXXXX
+
+Desglose:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Gastos efectuados (10): $ XXXXXXXXXXXXXXXXXXX
+
+Relación:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Ingreso neto/pérdida obtenida (11): $ XXXXXXXXXXXXXXXXXXX
+____
+
+Nombre y Firma de la Persona
+
+Responsable de Finanzas (12)
+
+____
+*(9) Adjuntar desglose de los ingresos brutos*
+
+*(10) Adjuntar relación por comprobante de los gastos*
+____
+
+*INSTRUCTIVO DE LLENADO DEL*
+
+*FORMATO OC.5 “CE-AUTO” CONTROL DE EVENTOS DE AUTOFINANCIAMIENTO*
+
+* Deberá presentarse un formato de control por cada evento, de acuerdo
+con lo siguiente:
+
+Claves:
+
+[arabic]
+. Deberá expresarse la denominación de la Organización de Ciudadanos.
+. Número consecutivo del evento.
+. Tipo de evento (conferencia, espectáculo, rifas, sorteos, etc.).
+. Deberá anotar el número de la autorización legal para su celebración,
+fecha de ésta y fecha de inicio y conclusión del evento a realizar.
+. Deberá anotar si lo administra la Organización de Ciudadanos o se
+contrata la celebración del evento.
+. Deberá expresarse el nombre del prestador del servicio, en su caso.
+. Deberá señalar la forma en que se obtendrá el ingreso (venta de
+boletos, expedición de recibos o cualquier otra modalidad).
+. Deberá anotar el total de recibos, boletos impresos u otros,
+utilizados, cancelados o pendientes de utilizar, presentando en su caso
+relaciones anexas. (De ser necesario anexar relaciones detalladas.
+Cuando no sea consecutiva la numeración desglosar uno por uno los
+boletos o recibos utilizados, cancelados y pendientes de utilizar).
+. Deberá anotar el resultado de la venta de boletos, expedición de
+boletos u otros: debe desglosarse el total obtenido. (Adjuntar desglose
+de los ingresos brutos).
+. Deberá anotar el total erogado en la celebración del evento y
+relacionar los mismos. (Adjuntar relación por comprobante de los
+gastos).
+. Deberá anotar el resultado de deducir al ingreso bruto el total de
+gastos erogados en el evento.
+. Nombre y firma autógrafa de la persona responsable de finanzas.

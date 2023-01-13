@@ -1,0 +1,133 @@
+____
+*FORMATO OC.6 “DG-PROP” DETALLE DE GASTOS DE PROPAGANDA*
+
+*DETALLE DE LOS GASTOS REALIZADOS POR LA ORGANIZACIÓN DE CIUDADANOS
+(1):*
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+DURANTE EL MES DE (2): agosto de 2020
+____
+
+[upperroman]
+. {blank}
++
+____
+*DETALLE DE LOS GASTOS DE PROPAGANDA*
+____
+
+____
+*CONCEPTO*
+
+*MONTO ($)*
+
+Mantas (3)
+
+$XXXXXXXXXXXXX
+
+Propaganda en bardas (3)
+
+$XXXXXXXXXXXXX
+
+Volantes (3)
+
+$XXXXXXXXXXXXX
+
+Pancartas (3)
+
+$XXXXXXXXXXXXX
+
+Equipo de sonido (3)
+
+$XXXXXXXXXXXXX
+
+Renta de locales para eventos políticos (3) +
+$XXXXXXXXXXXXX
+
+Propaganda utilitaria (3)
+
+$XXXXXXXXXXXXX
+
+Otros (3) (*)
+
+$XXXXXXXXXXXXX
+
+Panorámicos/Espectaculares (3)
+
+$XXXXXXXXXXXXX
+
+TOTAL (4)
+
+$XXXXXXXXXXXXX
+
+*RESPONSABLE DE LA INFORMACIÓN*
+
+NOMBRE (5):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+FECHA (6): 25 de agosto de 2020
+
+FIRMA (7):
+
+*(3) Anexar relación de contratos celebrados.*
+
+*(*) Anexar detalle por cada concepto que lo integra.*
+____
+
+*INSTRUCTIVO DE LLENADO DEL*
+
+*FORMATO OC.6 “DG-PROP” DESGLOSE DE GASTOS DE PROPAGANDA*
+
+* Deberá presentarse el formato, de acuerdo con lo siguiente:
+
+Claves:
+
+*APARTADO I. Detalle de los montos obtenidos.*
+
+[arabic]
+. NOMBRE
+
+Nombre de la Organización de Ciudadanos.
+
+[arabic, start=2]
+. MES
+. MONTO
+
+Mes al que corresponde el informe que se reporta.
+
+Importe total erogado por cada uno de los gastos de propaganda.
+
+[arabic, start=4]
+. TOTAL
+
+Sumas totales, de los montos de gastos de propaganda erogados por la
+Organización de Ciudadanos en el período que se reporta.
+
+*APARTADO II. Responsable de la información.*
+
+[arabic, start=4]
+. {blank}
+
+[arabic, start=5]
+. NOMBRE
+
+Nombre de la persona responsable de finanzas de la Organización de
+Ciudadanos.
+
+[arabic, start=5]
+. {blank}
+
+[arabic, start=6]
+. FECHA
+
+Fecha (día, mes y año) de presentación del formato.
+
+[arabic, start=7]
+. FIRMA
+
+Firma autógrafa de la persona responsable de finanzas de la Organización
+de Ciudadanos.
+
+*NOTA:* En caso de que el espacio para el detalle de la información sea
+insuficiente, podrán llenarse las hojas que sean necesarias.
+
+== 

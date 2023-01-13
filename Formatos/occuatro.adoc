@@ -1,0 +1,112 @@
+== FORMATO OC.4 “CF-RA-AS-ES” CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES DE AFILIADAS, AFILIADOS Y SIMPATIZANTES EN ESPECIE
+
+____
+Organización de Ciudadanos (1):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Total de recibos:
+
+Total de recibos impresos (2): XXXXXXXXXXXXX
+
+Del folio (3): XXXXXXXXXXXXXXXXX al folio XXXXXXXXXXXXXXXXX
+____
+
+[width="99%",cols="12%,10%,10%,17%,17%,17%,17%",options="header",]
+|===
+|No. de +
+Folio (4) |Fecha (5) |Tipo de Aportante (6) |Nombre del +
+Aportante (7) |Monto (8) a|
+Bien aportado
+
+(9)
+
+a|
+Criterio de
+
+Valuación
+
+(10)
+
+|XXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |$
+xxxxxxxxxxxxxxxxxxx |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+|XXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |$
+xxxxxxxxxxxxxxxxxxx |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+|XXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |$
+xxxxxxxxxxxxxxxxxxx |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+|XXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |$
+xxxxxxxxxxxxxxxxxxx |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+|XXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |$
+xxxxxxxxxxxxxxxxxxx |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+|XXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |$
+xxxxxxxxxxxxxxxxxxx |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+|*IMPORTE TOTAL* | | | |$ xxxxxxxxxxxxxxxxxxx | |
+|===
+
+____
+Recibos expedidos en mes(es) anterior(es) (11): xxxxxxxxxxxxxxxxxxx
+
+Recibos cancelados en mes(es) anterior(es) (12): xxxxxxxxxxxxxxxxxxxxx
+
+Recibos expedidos en el mes (13): xxxxxxxxxxxxxxxxxxxx
+
+Recibos cancelados en el mes (14): xxxxxxxxxxxxxxxx
+
+Recibos pendientes (15): xxxxxxxxxxxxxxxxx
+____
+
+Nombre y Firma de la Persona
+
+Responsable de Finanzas (16)
+
+*INSTRUCTIVO DE LLENADO DEL*
+
+*FORMATO OC.4 “CF-RA-AS-ES” CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES
+DE +
+AFILIADAS, AFILIADOS Y SIMPATIZANTES EN ESPECIE*
+
+* Deberá presentarse el formato, de acuerdo con lo siguiente:
+
+Claves:
+
+[arabic]
+. Deberá expresar la denominación de la Organización de Ciudadanos que
+recibió las aportaciones.
+. Total, de recibos impresos.
+. Número inicial y número final de los folios impresos.
+. Deberán listarse, uno por uno, los números consecutivos de folio
+(incluidos los cancelados y los pendientes de utilizarse, en este último
+deberá señalarse del folio inicial al folio final).
+. Deberá expresarse la fecha en la cual fue recibida la aportación.
+. Deberá expresarse si la aportación la realizó una afiliada, un
+afiliado o un simpatizante.
+. Deberá expresarse el nombre (apellido paterno, materno y nombres(s) de
+la persona que realizó la aportación. En el caso de los recibos
+cancelados, deberá expresarse la palabra “CANCELADO”; en el caso de los
+recibos pendientes de utilizar, deberá expresarse la palabra
+“PENDIENTE”. (en caso de que el espacio para el detalle de la
+información sea insuficiente, podrán llenarse las hojas necesarias).
+. En el caso de los recibos expedidos, deberá expresarse el monto de la
+aportación que amparan, de conformidad con los criterios de valuación
+utilizados. En el caso de los recibos cancelados y los pendientes de
+utilizar, deberá ponerse una línea transversal (/) en el recuadro
+correspondiente.
+. Deberá expresar una descripción detallada del bien aportado.
+. Expresar el criterio de valuación.
+. Total, de recibos expedidos en meses anteriores.
+. Total, de recibos cancelados en meses anteriores.
+. Total, de recibos expedidos durante el mes que se reporta.
+. Total, de recibos cancelados durante el mes que se reporta.
+. Total, de recibos pendientes de utilizar.
+. Nombre y firma autógrafa de la persona responsable de finanzas.

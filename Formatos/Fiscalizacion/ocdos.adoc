@@ -1,0 +1,126 @@
+== FORMATO OC.2 “CF-RA-AS-EF” CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES DE AFILIADAS, AFILIADOS Y SIMPATIZANTES EN EFECTIVO
+
+____
+Organización de Ciudadanos (1):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Total de recibos:
+
+Total de recibos impresos (2): XXXXXXXXXXXXX
+
+Del folio (3): XXXXXXXXXXXXXXXXX al folio XXXXXXXXXXXXXXXXX
+____
+
+[width="100%",cols="18%,16%,17%,30%,19%",options="header",]
+|===
+|Número +
+de Folio (4) |Fecha (5) |Tipo de +
+Aportante (6) |Nombre del +
+Aportante (7) |Monto (8)
+|XXXXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|$ xxxxxxxxxxxxxxxxxxx
+
+|XXXXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|$ xxxxxxxxxxxxxxxxxxx
+
+|XXXXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|$ xxxxxxxxxxxxxxxxxxx
+
+|XXXXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|$ xxxxxxxxxxxxxxxxxxx
+
+|XXXXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|$ xxxxxxxxxxxxxxxxxxx
+
+|XXXXXXXXXXX |25/08/2020 |S/A |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|$ xxxxxxxxxxxxxxxxxxx
+
+|*IMPORTE TOTAL* | | | |$ xxxxxxxxxxxxxxxxxxx
+|===
+
+____
+Recibos expedidos en mes(es) anterior(es) (9): xxxxxxxxxxxxxx
+
+Recibos cancelados en mes(es) anterior(es) (10): xxxxxxxxxxxxxxx
+
+Recibos expedidos en el mes (11): xxxxxxxxxxxxxxxxxx
+
+Recibos cancelados en el mes (12): xxxxxxxxxxxxxxxxxxxx
+
+Recibos pendientes (13): xxxxxxxxxxxxxxxxxxxx
+____
+
+Nombre y Firma de la Persona
+
+____
+Responsable de Finanzas (14)
+____
+
+==  +
+
+== INSTRUCTIVO DE LLENADO DEL 
+
+==  FORMATO OC.2 “CF-RA-AS-EF” CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES DE +
+AFILIADAS, AFILIADOS Y SIMPATIZANTES EN EFECTIVO
+
+== 
+
+== 
+
+* {blank}
++
+== Deberá presentarse el formato, de acuerdo con lo siguiente:
+
+== Claves:
+
+[arabic]
+. {blank}
++
+== Deberá expresarse la denominación de la Organización de Ciudadanos que recibió las aportaciones.
+. {blank}
++
+== Total, de recibos impresos. 
+. {blank}
++
+== Número inicial y número final de los folios impresos.
+. {blank}
++
+== Deberán listarse, uno por uno, los números consecutivos de folio (incluidos los cancelados y los pendientes de utilizarse, en este último deberá señalarse del folio inicial al folio final).
+
+== 
+
+[arabic, start=5]
+. {blank}
++
+== Deberá expresarse la fecha en la cual se recibió la aportación.
+. {blank}
++
+== Deberá expresarse si la aportación la realizó una afiliada, un afiliado o un simpatizante.
+
+== 
+
+[arabic, start=7]
+. {blank}
++
+== Deberá expresarse el nombre (apellido paterno, materno y nombre(s) de la persona que realizó la aportación. En el caso de los recibos cancelados, deberá expresarse la palabra “CANCELADO”; en el caso de los recibos pendientes de utilizar, deberá expresarse la palabra “PENDIENTE”. (En el caso de que el espacio para el detalle de la información sea insuficiente, podrán llenarse las hojas necesarias). 
+. {blank}
++
+== En el caso de los recibos expedidos, deberá expresarse el monto de la aportación que amparan. En el caso de los recibos cancelados y los pendientes de utilizar, deberá ponerse una línea transversal (/) en el recuadro correspondiente.
+. {blank}
++
+== Total, de recibos expedidos en meses anteriores.
+. {blank}
++
+== Total, de recibos cancelados en meses anteriores.
+. {blank}
++
+== Total, de recibos expedidos durante el mes que se reporta.
+. {blank}
++
+== Total, de recibos cancelados durante el mes que se reporta.
+. {blank}
++
+== Total, de recibos pendientes de utilizar.
+. {blank}
++
+== Nombre y firma autógrafa de la persona responsable de finanzas.
